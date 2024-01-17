@@ -9,9 +9,7 @@
 <br>
 
 
-
-	
-## <picture><img src = "https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg)" width = 250px></picture>
 

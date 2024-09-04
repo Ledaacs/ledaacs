@@ -15,13 +15,12 @@
 
 <br>
 - 18yrs
-<picture> <img src="https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg" width="500px"> </picture>
+<picture> <img align="center" src="https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg" width="500px"> </picture>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 <p align="center">
 

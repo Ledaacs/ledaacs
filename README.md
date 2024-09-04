@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Bence Ledacs-Kiss</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bence+Ledacs+-Kiss..&hearts;++;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bence+Ledacs+-Kiss.. 18yrs;++;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -14,7 +14,6 @@
 <picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg)" width = 450px></picture>
 
 <br>
-- 18yrs
 <p align="center">
   <img align="center" src="https://cdn.vox-cdn.com/thumbor/5xn_TI4JaPu1o0j79fmpYdiujhs=/0x0:3000x2000/1200x800/filters:focal(697x560:1177x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/54394025/670523882.0.jpg" width="500px">
 </p>
